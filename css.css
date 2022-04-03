@@ -295,6 +295,7 @@ list-style-type: decimal-leading-zero;
   border-bottom: none;
   border-top: none;
   border-left: none;
+
 }
 
 .thli{
@@ -310,4 +311,13 @@ list-style-type: decimal-leading-zero;
   font-size: 24px;
   line-height: 100%;
   color: #3D4A39;
+}
+
+#sec3{
+  position: absolute;
+  width: 100%;
+  height: 688px;
+  left: 0px;
+  top: 1700px;
+  background: #3D4A39;
 }
